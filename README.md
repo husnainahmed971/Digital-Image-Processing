@@ -30,27 +30,6 @@ The main goals of this repository are to:
 - expose students to practical image-processing workflows used in computer vision
 - build a structured set of lab-based exercises for academic learning
 
-## Repository Structure
-
-```text
-Digital-Image-Processing/
-├── Lab-1/
-│   ├── Lab1_DIP.py
-│   ├── Lab1_DIP.ipynb
-│   ├── RGB_image.jpg
-│   ├── GrayScale.jpg
-│   ├── Black&white.jpg
-│   └── LAB 1.docx
-├── Lab-(2&3)/
-│   └── Coursework for Labs 2 and 3
-├── Lab-4/
-│   └── Yin_Side_Window_Filtering_CVPR_2019_paper_2.pdf
-├── Lab-5/
-│   └── Additional lab activity or coursework
-├── README.md
-├── .gitignore
-└── LICENSE (if added later)
-```
 
 ## Lab-by-Lab Description
 
